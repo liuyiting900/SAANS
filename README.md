@@ -43,6 +43,9 @@ python run_single.py
 python run_single.py
 
 ![SAANS Encoding Process](./assets/encoding.png)
+
 ...
-![SAANS Decoding/Extraction Process](./assets/decoding.png)****
+
+![SAANS Decoding/Extraction Process](./assets/decoding.png)
+
 
