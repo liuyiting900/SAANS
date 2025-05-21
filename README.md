@@ -50,10 +50,10 @@ You can run SAANS directly through the main script:
 
 ```bash
 # Compression
-python run_single.py --mode compress --method saans --input input.txt --output compressed.bin
+python run_single.py 
 
 # Decompression
-python run_single.py --mode decompress --method saans --input compressed.bin --output recovered.txt
+python run_single.py 
 
 ---
 
