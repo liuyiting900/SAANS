@@ -42,10 +42,13 @@ python run_single.py
 # Decompression
 python run_single.py
 
+## SAANS Encoding Process
+
 ![SAANS Encoding Process](./assets/encoding.png)
 
-...
+## SAANS Decoding/Extraction Process
 
 ![SAANS Decoding/Extraction Process](./assets/decoding.png)
+
 
 
