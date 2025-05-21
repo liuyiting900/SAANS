@@ -2,7 +2,7 @@
 
 ## Overview
 
-`SAANSNEW.py` implements the **Scalable Adaptive Asymmetric Normalized Arithmetic Coding (SAANS)** algorithm, designed for efficient binary stream compression with support for adaptive modeling and potential steganographic embedding.
+`SAANSNEW.py` implements the **Linguistic Steganography via Self-Adjusting Asymmetric Number System (SAANS-Stage)** algorithm, designed for efficient binary stream compression with support for adaptive modeling and potential steganographic embedding.
 
 SAANS can serve as a core compression component or a stego coding method, making it suitable for various applications in data compression, security, and communication.
 
@@ -40,6 +40,9 @@ Command line usage via `run_single.py`:
 python run_single.py 
 
 # Decompression
-python run_single.py 
+python run_single.py
 
+![SAANS Encoding Process](./assets/saans_encoding_example.pdf)
+...
+![SAANS Decoding/Extraction Process](./assets/saans_decoding_example.pdf)****
 
